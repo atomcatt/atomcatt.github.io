@@ -73,3 +73,6 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
+
+# theme: owner/name --> Don't forget to remove/comment the gem-based theme option
+remote_theme: "jeffreytse/jekyll-theme-yat"
