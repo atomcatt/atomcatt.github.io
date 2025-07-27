@@ -18,7 +18,7 @@ Publications
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="width: 40%; padding-right: 20px; vertical-align: middle; border: none;">
-      <img src="../images/SoAy.png" alt="main fig" style="width: 100%;">
+      <img src="SoAy.png" alt="main fig" style="width: 100%;">
     </td>
     <td style="vertical-align: middle; border: none;">
       <p style="margin: 0; font-size: 1.2em;">
