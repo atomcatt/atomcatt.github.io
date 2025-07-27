@@ -9,7 +9,7 @@ redirect_from:
 
 Hi!😄 I'm Jinkai Zhang, currently the final-yaer undergraduated student at Renmin University of China, majoring in Computer Science as a member of the university's Top-tier Program in School of Information.
 
-I'm deeply interested in Large Language Models, Reinforcement Learning, LLM Agents and the underlying LLM Infrastructure that powers them. Currently, I'm fortunate to work in Prof. Jing Zhang's Lab
+I'm deeply interested in Large Language Models, Reinforcement Learning, LLM Agents and the underlying LLM Infrastructure that powers them. Currently, I'm fortunate to work in Prof. Jing Zhang's RUCKBReasoning Lab.
 
 **I'm actively seeking a Ph.D. opportunity in 26 Fall!**
 
