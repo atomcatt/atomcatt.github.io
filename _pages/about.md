@@ -11,7 +11,7 @@ Hi!😄 I'm Jinkai Zhang, currently the final-yaer undergraduated student at Ren
 
 I'm deeply interested in Large Language Models, Reinforcement Learning, LLM Agents and the underlying LLM Infrastructure that powers them. Currently, I'm fortunate to work in Prof. Jing Zhang's RUCKBReasoning Lab.
 
-**I'm actively seeking a Ph.D. opportunity in 26 Fall!**
+<strong style="color: red; background-color: yellow;">I'm actively seeking a Ph.D. opportunity in 26 Fall!</strong>
 
 Publications
 ===
